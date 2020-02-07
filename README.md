@@ -11,7 +11,7 @@ Using the latest version of React: 16.10+, this course is focused on efficiency.
 ### Course Outline:
 Section 1: Introduction &check; <br>
 Section 2: React Key Concepts &check; <br>
-Section 3: React Basics <br>
+Section 3: React Basics &check; <br>
 Section 4: Master Project: Setting Up E-commerce
 Project <br>
 Section 5: Master Project: React Router and Routing <br>
