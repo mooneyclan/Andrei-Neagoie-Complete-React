@@ -14,7 +14,7 @@ Section 2: React Key Concepts &check; <br>
 Section 3: React Basics &check; <br>
 Section 4: Master Project: Setting Up E-commerce
 Project &check; <br>
-Section 5: Master Project: React Router and Routing <br>
+Section 5: Master Project: React Router and Routing &check; <br>
 Section 6: Master Project: Forms + Components <br>
 Section 7: Master Project: Firebase + User
 Authentication <br>
